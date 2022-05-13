@@ -9,8 +9,8 @@ An Android based on the popular unsplash API
 
 ## Screenshots
 <div style="display:flex;">
-<img alt="App image" src="images/wallinator1.webp" height="30%">
-<img alt="App image" src="images/wallinator2.webp" height="30%">
+<img alt="App image" src="images/wallinator1.webp" width="33%">
+<img alt="App image" src="images/wallinator2.webp" width="33%">
 <!-- <img alt="App image" src="images/monthly.jpg" width="30%"> -->
 </div>
 
