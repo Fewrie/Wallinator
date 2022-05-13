@@ -7,12 +7,12 @@ An Android based on the popular unsplash API
 * Auto-Wallpaper
 * Dark Mode.
 
-<!-- ## Screenshots
+## Screenshots
 <div style="display:flex;">
-<img alt="App image" src="images/daily.jpg" width="30%">
-<img alt="App image" src="images/weekly.jpg" width="30%">
-<img alt="App image" src="images/monthly.jpg" width="30%">
-</div> -->
+<img alt="App image" src="images/wallinator1.webp" width="30%">
+<!-- <img alt="App image" src="images/weekly.jpg" width="30%">
+<img alt="App image" src="images/monthly.jpg" width="30%"> -->
+</div>
 
 ## Links
 [API used](https://unsplash.com/developers)     <br />
